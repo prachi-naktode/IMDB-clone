@@ -1,5 +1,5 @@
 {
-  "name": "imdb-clone",
+  "name": "IMDB-clone",
   "version": "1.0.0",
   "description": "Trying to make a clone of IMDB website",
   "main": "index.js",
